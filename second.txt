@@ -1,0 +1,2 @@
+This is a text added to second file, we created from CLI Bash in Windows.
+
